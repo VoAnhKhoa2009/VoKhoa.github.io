@@ -349,7 +349,7 @@ color: #FFFFFF;
 						<p class="ta-c mb10"><a class="contactme">CONTACT ME:</a></p>
 						<p class="ta-c mb10"><a style="font-size: 16px;" href="https://www.facebook.com/vokhoagdtg2009" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">FACEBOOK</a></p>
 						<p class="ta-c mb10"><a  style="font-size: 16px;" href="https://www.tiktok.com/@khoale2231" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">TIKTOK</a></p>
-            <p class="ta-c mb10"><a  style="font-size: 16px;" href="Zalo.me/0357219647" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">ZALO</a></p>
+            <p class="ta-c mb10"><a  style="font-size: 16px;" href="https://www.Zalo.me/0357219647" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">ZALO</a></p>
 						<!-- <p class="ta-c mb10"><a href="link" target="_blank" class="tx-btn tx-btn-big zhuce">text</a></p>-->
 						<p><span style="font-size: 16px;"><b>Made by ^_^ <font color="red">Trường Phát</font></b></span></p>
 					</div>
